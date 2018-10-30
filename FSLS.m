@@ -14,6 +14,8 @@ function [EST,COV] = FSLS(X,THETA,freq,f,t,dt,n,m)
 % OUTPUTS
 % EST : matrix of estimated parameters
 % COV : covariance matrices of parameters estimates
+%
+% Created by Riccardo Canola (riccardo.canola@gmail.com)
 
 dt_fsls= 1/f;
 m_fsls = length(0:dt_fsls:t(end));  
