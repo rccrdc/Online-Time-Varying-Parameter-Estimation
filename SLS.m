@@ -13,7 +13,8 @@ function [EST,COV] = SLS(X,Z,lambda,f,t,n,m)
 % OUTPUTS
 % EST : matrix of estimated parameters
 % COV : covariance matrices of parameters estimates
-
+%
+% Created by Riccardo Canola (riccardo.canola@gmail.com)
 
 EST = zeros(n,m+1);
 count = 1;
