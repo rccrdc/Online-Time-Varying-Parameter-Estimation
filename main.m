@@ -2,6 +2,8 @@ clear all
 close all
 clc
 
+% Created by Riccardo Canola (riccardo.canola@gmail.com)
+
 %% Data
 
 % forgetting factor
