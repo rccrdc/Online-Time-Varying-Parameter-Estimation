@@ -11,6 +11,8 @@ function [EST,COV] = EWRLS(X,Z,lambda,n,m)
 % OUTPUTS
 % EST : matrix parameters estimates
 % COV : covariance matrices of estimates
+%
+% Created by Riccardo Canola (riccardo.canola@gmail.com)
 
 COV(:,:,1) = 10^6 * eye(n,n);
 s2 = randn;
