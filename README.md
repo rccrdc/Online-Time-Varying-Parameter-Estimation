@@ -1,6 +1,6 @@
 # Parameter-Estimation
 
-Algorithms to get time-varying real-time parameter estimates using recursive methods:
+Algorithms to obtain on-line time-varying parameter estimates using recursive methods:
 
 EWRLS : Exponentially Weighted Recursive Least Squares
 SLS: Sequential Least Squares
