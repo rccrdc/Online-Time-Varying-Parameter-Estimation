@@ -1,4 +1,4 @@
-# Parameter-Estimation
+# Online-Time-Varying-Parameters-Estimation
 
 Algorithms to obtain on-line time-varying parameter estimates using recursive methods:
 
